@@ -2,8 +2,10 @@
 Push-swap graded 86 by my peers on 🎃 Ocotober 31, 2021 🎃 with the norm 3.3.32. Works on bash.
 
 In this repo you will find : 
-- **
-- **
+- FINAL-push-swap : 
+  - checker_mac and checker_linux : checkers to check if the list is well sorted in the end
+  - srcs, includes, Makefile : source code obviously
+- SUBJECT-PUSH-SWAP-en.pdf : the subject in english ☕️ 
 
 How did I do ?
 - For 100 numbers or less, I find the median, push what is bellow the median in list B, sort the list B with the lowest possible number of actions, and push back the content of list B in list A. Then I do the same for numbers above the median. 
@@ -16,3 +18,7 @@ To test my program, run `make`, then :
 - `ARG="133 -713 -331 54 -994 -17 -110"; ./push_swap $ARG | ./checker_linux $ARG` to see if it's well sorted (on a linux)
 
 Of course you can put whatever ints you like in the argument ARG
+
+Happy Halloween 👻 
+
+![GitHub repo size](https://img.shields.io/github/repo-size/amontaut/PUSH-SWAP-2021?style=for-the-badge)
