@@ -14,8 +14,8 @@ How did I do ?
 To test my program, run `make`, then :
 - `ARG="133 -713 -331 54 -994 -17 -110"; ./push_swap $ARG` to see the instructions on screen
 - `ARG="133 -713 -331 54 -994 -17 -110"; ./push_swap $ARG | wc -l` to see how many moves it took
-- `ARG="133 -713 -331 54 -994 -17 -110"; ./push_swap $ARG | ./checker_mac $ARG` to see if it's well sorted (on a mac)
-- `ARG="133 -713 -331 54 -994 -17 -110"; ./push_swap $ARG | ./checker_linux $ARG` to see if it's well sorted (on a linux)
+- `ARG="133 -713 -331 54 -994 -17 -110"; ./push_swap $ARG | ./checker_mac $ARG` to see if it's well sorted (on macos)
+- `ARG="133 -713 -331 54 -994 -17 -110"; ./push_swap $ARG | ./checker_linux $ARG` to see if it's well sorted (on linux)
 
 Of course you can put whatever ints you like in the argument ARG
 
