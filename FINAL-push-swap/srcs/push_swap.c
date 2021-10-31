@@ -6,7 +6,7 @@
 /*   By: amontaut <amontaut@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/05 02:44:02 by amontaut          #+#    #+#             */
-/*   Updated: 2021/10/13 20:15:35 by amontaut         ###   ########.fr       */
+/*   Updated: 2021/10/31 15:56:18 by amontaut         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -83,4 +83,5 @@ int	main(int ac, char **av)
 	chose_path(&list_a, &list_b, ac);
 	free_list_a(&list_a);
 	free_list_b(&list_b);
+	return (0);
 }
