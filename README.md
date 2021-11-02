@@ -19,6 +19,9 @@ To test my program, run `make`, then :
 
 Of course you can put whatever ints you like in the argument ARG
 
+Here are some ressources I used : 
+- Random number generator : https://tinyurl.com/55b82sty
+
 Happy Halloween 👻 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/amontaut/PUSH-SWAP-2021?style=for-the-badge)
