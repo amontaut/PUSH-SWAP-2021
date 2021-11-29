@@ -1,5 +1,5 @@
 # PUSH-SWAP-2021
-Push-swap graded 86 by my peers on 🎃 Ocotober 31, 2021 🎃 with the norm 3.3.32. Works on bash.
+Push-swap graded 86 by my peers on 🎃 October 31, 2021 🎃 with the norm 3.3.32. Works on bash.
 
 ## In this repo you will find :
 - FINAL-push-swap : 
